@@ -1,2 +1,3 @@
 # ugee-signature-SDK-windows-JavaScript-PDF-10.1inch-screen
 The JavaScript SDK of UGEE provides a solution for loading PDF file signing on web pages.
+This SDK is designed for Windows systems to load PDF files on a web page for signing. After signing is completed, the signing service returns a complete PDF file with the signature image composited. The default save path is the ./pdf folder under the installation directory. During installation, PDF-related controls need to be registered, so the SDK development package is distributed as an installer. After installation, you can find the signing service program, API documentation, and web code examples in the installation directory.
